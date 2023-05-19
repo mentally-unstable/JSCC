@@ -1,0 +1,23 @@
+{
+  "name": "jscc",
+  "version": "1.0.0",
+  "description": "Javascript C Compiler (JSCC), compiles a subset of the C programming language",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mentally-unstable/JSCC.git"
+  },
+  "keywords": [
+    "Compiler",
+    "C"
+  ],
+  "author": "Ulvi Zimmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mentally-unstable/JSCC/issues"
+  },
+  "homepage": "https://github.com/mentally-unstable/JSCC#readme"
+}
